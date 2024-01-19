@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: anilaithama/capstone-v-1
+        image: anilaithama/capstone-v1
         ports:
         - containerPort: 80
